@@ -22,7 +22,7 @@
 
 여기서 플레이어가 들어왔을 때 전송되는 메시지를 수정하고 싶다면 `PlayerJoinEvent` 객체에 대해 `setJoinMessage(String message)`를 호출하여 변경하면, Bukkit API는 변경된 입장 메시지를 전체 플레이어에게 전송할 것이다. 정리하면 다음 이미지와 같다.
 
-![](https://wikidocs.net/images/page/121657/1.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/1.png)
 
 # 이벤트 겉핥기
 
@@ -32,9 +32,9 @@
 
 `MBPDPlugin`과 같은 패키지에 `EventListener` 클래스를 만들어 주자.
 
-![](https://wikidocs.net/images/page/121657/2.png)
-![](https://wikidocs.net/images/page/121657/3.png)
-![](https://wikidocs.net/images/page/121657/4.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/2.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/3.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/4.png)
 
 **2.1) 메인 클래스 생성하기** 에서 했던 것 처럼, 클래스 이름 뒤에 `implements Listener`를 입력해주자. `Listener`가 빨갛게 표시된다면 `Listener` 뒤에 커서를 두고 **Ctrl+Space**로 자동 `import` 명령을 실행하자.
 
@@ -58,7 +58,7 @@ public class EventListener implements Listener {
 
 따라서 원래 인터페이스를 가져오면 클래스 이름 밑에 빨간 줄이 뜨면서, 필수로 구현해야 하는 메소드들을 알려주는데, 이상하게도 그렇지 않다. 그 이유는 `Listener`의 코드를 보면 알 수 있다.
 
-![](https://wikidocs.net/images/page/121657/5.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/5.png)
 
 `Listener`의 코드를 보려면 `Listener` 위에 마우스를 대고 **Ctrl+클릭**하여 해당 클래스의 정의로 찾아갈 수 있다.
 
@@ -222,7 +222,7 @@ void registerEvents(Listener listener, Plugin plugin);
 
 서버 주소는 `localhost` 또는 `127.0.0.1` 으로 설정하면 자신의 컴퓨터에서 연 서버를 접속할 수 있다.
 
-![](https://wikidocs.net/images/page/121657/6.png)
-![](https://wikidocs.net/images/page/121657/7.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/6.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8(Event)/7.png)
 
 기본 서버 접속 메시지가 영어에서 한글로 변한 것을 볼 수 있다!

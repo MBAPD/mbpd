@@ -11,23 +11,23 @@ plugin.yml 내에 필수로 기재해야 하는 것은 이름(name), 버전(vers
 # plugin.yml 파일 생성하기
 ## 파일 만들기
 
-![](https://wikidocs.net/images/page/121644/1.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/2.%20%EC%B2%AB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/2%20-%20plugin.yml%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/1.png)
 
 먼저 `plugin.yml`을 넣을 폴더를 생성한다. 바로 프로젝트 경로 밑에 `plugin.yml`을 생성해도 되지만, 이후에 플러그인에 포함할 여러 리소스 파일들이 생길지도 모르니 미리 폴더를 만들어 두자.
 
-![](https://wikidocs.net/images/page/121644/2.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/2.%20%EC%B2%AB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/2%20-%20plugin.yml%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/2.png)
 
 폴더 이름은 `resources`로 정한다.
 
-![](https://wikidocs.net/images/page/121644/3.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/2.%20%EC%B2%AB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/2%20-%20plugin.yml%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/3.png)
 
 방금 생성된 `resources` 폴더를 다시 우클릭하여 파일을 생성한다.
 
-![](https://wikidocs.net/images/page/121644/4.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/2.%20%EC%B2%AB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/2%20-%20plugin.yml%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/4.png)
 
 파일 이름은 `plugin.yml`으로 정한다.
 
-![](https://wikidocs.net/images/page/121644/5.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/2.%20%EC%B2%AB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/2%20-%20plugin.yml%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/5.png)
 
 방금 생성한 `plugin.yml`이 오른쪽 텍스트 에디터에 열렸을 것이다. 이제 여기에 내용을 작성하면 된다.
 

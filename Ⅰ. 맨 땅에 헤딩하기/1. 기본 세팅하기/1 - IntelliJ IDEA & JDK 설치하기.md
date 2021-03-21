@@ -8,17 +8,17 @@
 
 상기된 링크에 접속한 후, 아래의 이미지에 빨간색 강조 표시를 따른다.
 
-![](https://wikidocs.net/images/page/120838/1.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/1.png)
 
-![](https://wikidocs.net/images/page/120838/2.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/2.png)
 
 다운로드 버튼을 클릭하여 설치 프로그램을 다운로드 받고, 실행한다.
 
-![](https://wikidocs.net/images/page/120838/3.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/3.png)
 
-![](https://wikidocs.net/images/page/120838/4.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/4.png)
 
-![](https://wikidocs.net/images/page/120838/5.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/5.png)
 
 각각의 옵션은 다음과 같으며, 전부 체크하지 않아도 강좌 진행에는 무리가 없다.
 
@@ -28,37 +28,37 @@
 * ④ 각각 `.java`, `.groovy`, `.kt`, `.kts` 파일에 연결 프로그램을 IntelliJ로 설정한다.
 * ⑤ 32비트 JetBrains 런타임을 설치한다.
 
-![](https://wikidocs.net/images/page/120838/6.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/6.png)
 
-![](https://wikidocs.net/images/page/120838/7.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/7.png)
 
-![](https://wikidocs.net/images/page/120838/8.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/8.png)
 
 체크박스를 누르지 않고 Finish 했어도 그냥 방금 설치한 IntelliJ IDEA를 실행하냐 마냐의 차이이다. 실수로 바로 Finish를 했다면 검색을 통해 IntelliJ IDEA를 실행시켜 주자.
 
-![](https://wikidocs.net/images/page/120838/9.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/9.png)
 
 기존 설정을 불러오는 창이다. 만약 기존에 사용하던 IntelliJ IDEA 설정값이 있다면 재량껏 불러와주자.
 
-![](https://wikidocs.net/images/page/120838/10.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/10.png)
 
-![](https://wikidocs.net/images/page/120838/11.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/11.png)
 
-![](https://wikidocs.net/images/page/120838/12.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/12.png)
 
-![](https://wikidocs.net/images/page/120838/13.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/13.png)
 
-![](https://wikidocs.net/images/page/120838/14.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/14.png)
 
-![](https://wikidocs.net/images/page/120838/15.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/15.png)
 
-![](https://wikidocs.net/images/page/120838/16.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/16.png)
 
-![](https://wikidocs.net/images/page/120838/17.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/17.png)
 
-![](https://wikidocs.net/images/page/120838/18.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/18.png)
 
-![](https://wikidocs.net/images/page/120838/19.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/19.png)
 
 IntelliJ IDEA & JDK 설치 끝! 
 
@@ -67,28 +67,28 @@ IntelliJ IDEA & JDK 설치 끝!
 
 상기 이미지에 설명된 대로 설치됐다면, **JDK가 설치된 경로**는 `C:\Users\<유저 이름>\.jdks\adopt-openjdk-11.0.10\` 이다. 앞으로 `JDK가 설치된 경로`와 같이 강조되면 이 경로를 참조하면 된다. 만약 위에서 JDK를 설치할 때 경로를 바꾸었다면 해당 경로를 참조하면 된다.
 
-![](https://wikidocs.net/images/page/120838/20.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/20.png)
 
 요즘 세상이 참 편해졌다. 만약 Windows 10이 아닌 경우 **제어판 > 시스템 및 보안 > 시스템 > 좌측의 고급 시스템 설정**을 들어가면 나온다.
 
-![](https://wikidocs.net/images/page/120838/21.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/21.png)
 
 환경 변수 부분을 클릭해준다.
 
-![](https://wikidocs.net/images/page/120838/22.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/22.png)
 
 하단의 시스템 환경 변수에서 `Path`를 찾아 **편집(I)...**을 클릭한다.
 
-![](https://wikidocs.net/images/page/120838/23.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/23.png)
 
 **새로 만들기(N)** 버튼을 클릭하여 텍스트를 입력할 칸이 나타난다면 `JDK가 설치된 경로\bin` 를 입력한다. **절대로 뒤의 `\bin`을 빼먹어서는 안 된다!**
 
 
-![](https://wikidocs.net/images/page/120838/24.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/24.png)
 
 **확인** 버튼을 눌러 다시 이전의 환경 변수 창으로 돌아가, 이번에는 편집 버튼 대신 **새로 만들기(W)...** 버튼을 클릭한다.
 
-![](https://wikidocs.net/images/page/120838/25.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/25.png)
 
 **변수 이름** 란에는 `JAVA_HOME`, **변수 값** 란에는 `JDK가 설치된 경로` 그대로를 입력, **확인** 버튼을 클릭한다.
 
@@ -96,15 +96,15 @@ IntelliJ IDEA & JDK 설치 끝!
 
 환경 변수 설정이 정상적으로 되었는지 확인해보자.
 
-![](https://wikidocs.net/images/page/120838/26.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/26.png)
 
  `Win+R` 버튼을 눌러 `cmd`를 입력한 후 **확인** 버튼을 눌러 명령 프롬프트 창을 실행한다.
 
-![](https://wikidocs.net/images/page/120838/27.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/27.png)
 
 실행된 창에 `java -version` 을 입력한다.
 
-![](https://wikidocs.net/images/page/120838/28.png)
+![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/28.png)
 
 이미지와 같이 **AdoptOpenJDK, 버전 11**이 정상적으로 출력된다면 환경 변수 설정도 완료된 것이다!
 
