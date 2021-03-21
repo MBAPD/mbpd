@@ -22,11 +22,15 @@
 
 각각의 옵션은 다음과 같으며, 전부 체크하지 않아도 강좌 진행에는 무리가 없다.
 
-* ① 바탕화면에 바로가기 아이콘 설치 여부를 결정한다.
-* ② IntelliJ IDEA의 설치 경로를 PATH 환경 변수에 등록한다.
-* ③ 폴더를 우클릭할 때 "Open Folder as Project(폴더를 프로젝트로 열기)" 옵션을 제공한다.
-* ④ 각각 `.java`, `.groovy`, `.kt`, `.kts` 파일에 연결 프로그램을 IntelliJ로 설정한다.
-* ⑤ 32비트 JetBrains 런타임을 설치한다.
+​	① 바탕화면에 바로가기 아이콘 설치 여부를 결정한다.  
+
+​	② IntelliJ IDEA의 설치 경로를 PATH 환경 변수에 등록한다.  
+
+​	③ 폴더를 우클릭할 때 "Open Folder as Project(폴더를 프로젝트로 열기)" 옵션을 제공한다.  
+
+​	④ 각각 `.java`, `.groovy`, `.kt`, `.kts` 파일에 연결 프로그램을 IntelliJ로 설정한다.  
+
+​	⑤ 32비트 JetBrains 런타임을 설치한다.  
 
 ![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/1%20-%20IntelliJ%20IDEA%20%26%20JDK%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/6.png)
 
