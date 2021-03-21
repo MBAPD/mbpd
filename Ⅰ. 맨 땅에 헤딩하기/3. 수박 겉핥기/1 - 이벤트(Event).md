@@ -36,7 +36,7 @@
 ![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%28Event%29/3.png)
 ![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/3.%20%EC%88%98%EB%B0%95%20%EA%B2%89%ED%95%A5%EA%B8%B0/1%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%28Event%29/4.png)
 
-**2.1) 메인 클래스 생성하기** 에서 했던 것 처럼, 클래스 이름 뒤에 `implements Listener`를 입력해주자. `Listener`가 빨갛게 표시된다면 `Listener` 뒤에 커서를 두고 **Ctrl+Space**로 자동 `import` 명령을 실행하자.
+**2.1 - 메인 클래스 생성하기** 에서 했던 것 처럼, 클래스 이름 뒤에 `implements Listener`를 입력해주자. `Listener`가 빨갛게 표시된다면 `Listener` 뒤에 커서를 두고 **Ctrl+Space**로 자동 `import` 명령을 실행하자.
 
 주의할 점은 `import`해야 하는 `Listener`는 `org.bukkit.event` 패키지의 `Listener`이다. 워낙 범용되는 이름이라 다른 Java 라이브러리에도 동일한 이름의 클래스가 몇몇 있다. 낚이지 말고 잘 고르자.
 

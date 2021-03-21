@@ -30,7 +30,7 @@ Artifact 기능은 오른쪽에 추가 가능한 요소에 있는 것 말고도 
 
 ![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/2.%20%EC%B2%AB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/3%20-%20Artifact%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B3%A0%20%EB%B9%8C%EB%93%9C%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/5.png)
 
-**2) plugin.yml 생성하고 설정하기** 에서 만든 프로젝트의 `resources` 폴더를 선택하고 **OK**를 클릭한다.
+**2 - plugin.yml 생성하고 설정하기** 에서 만든 프로젝트의 `resources` 폴더를 선택하고 **OK**를 클릭한다.
 
 ## 이름과 추출 경로 설정하기
 
