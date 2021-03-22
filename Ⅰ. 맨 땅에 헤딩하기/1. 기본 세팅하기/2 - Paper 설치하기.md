@@ -38,7 +38,7 @@ Bukkit API로 플러그인을 개발하기 위해서는 기반 서버 소프트�
 
 ![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/2%20-%20Paper%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/7.png)
 
-위와 같이 명령 프롬프트에 `Downloading vanilla jar...` 와 `Patching vanilla jar...` 이후 시스템 상의 Java 버전을 출력하고 `Loading libraries... please wait...` 메세지가 출력됐으면 이제 창을 닫아도 된다. 사실 굳이 안 닫아도 얼마 있다가 짧은 단말마 후에 지가 알아서 닫힌다.
+위와 같이 명령 프롬프트에 `Downloading vanilla jar...` 와 `Patching vanilla jar...` 이후 시스템 상의 Java 버전을 출력하고 `Loading libraries... please wait...` 이후 얼마 안 가 모종의 단말마를 남기고 콘솔 창이 스스로 닫힐 것이다.  
 
 ![](https://raw.githubusercontent.com/MBAPD/mbpd/main/%E2%85%A0.%20%EB%A7%A8%20%EB%95%85%EC%97%90%20%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0/1.%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/2%20-%20Paper%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/8.png)
 
